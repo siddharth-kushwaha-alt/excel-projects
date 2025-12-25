@@ -1,29 +1,21 @@
-# Excel Projects
+# Excel COVID Data Analysis Project
 
-This repository contains Excel projects I built while learning data analytics.
+## Objective
+Analyze COVID-19 data using Excel to identify death rates, recovery rates, and risk levels across countries.
 
----
+## Tools & Techniques Used
+- Sorting & Filtering
+- Data Validation
+- HLOOKUP
+- Calculated Columns
+- Conditional Formatting
+- Icon Sets
 
-## Project 1: COVID-19 Data Analysis (Excel)
+## Key Insights
+- Countries categorized into High, Moderate, and Low risk
+- Visual indicators used for quick comparison
+- Rates calculated using confirmed, recovered, and death data
 
-### Description
-Analyzed COVID-19 data across multiple countries using Excel to calculate
-death rates, recovery rates, and infection risk levels.
-
-### Dataset
-Global COVID-19 country-level data (confirmed cases, deaths, recoveries, population).
-
-### Key Skills Used
-- Data cleaning & formatting
-- Excel formulas
-- Conditional formatting
-- Risk categorization using thresholds
-- Icon sets for visual indicators
-
-### Insights Generated
-- Countries categorized into **Low, Moderate, and High risk**
-- Comparison of infection and recovery rates across regions
-- Visual risk indicators for quick interpretation
-
-### Project Screenshot
-![Project Overview](screenshots/project1_overview.png)
+## Files in this Repository
+- Excel_Covid_Data_Analysis_Project.xlsx → Final project file
+- screenshots/ → Project visuals
