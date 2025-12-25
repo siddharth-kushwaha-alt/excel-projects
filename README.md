@@ -2,15 +2,28 @@
 
 This repository contains Excel projects I built while learning data analytics.
 
-## Skills Used
-- Data cleaning
+---
+
+## Project 1: COVID-19 Data Analysis (Excel)
+
+### Description
+Analyzed COVID-19 data across multiple countries using Excel to calculate
+death rates, recovery rates, and infection risk levels.
+
+### Dataset
+Global COVID-19 country-level data (confirmed cases, deaths, recoveries, population).
+
+### Key Skills Used
+- Data cleaning & formatting
 - Excel formulas
-- Sorting and filtering
-- Basic data analysis
+- Conditional formatting
+- Risk categorization using thresholds
+- Icon sets for visual indicators
 
-## Projects
-- Project 1: Sales dataset — cleaned raw data and created summary insights
-(More projects will be added soon)
+### Insights Generated
+- Countries categorized into **Low, Moderate, and High risk**
+- Comparison of infection and recovery rates across regions
+- Visual risk indicators for quick interpretation
 
-## Notes
-I am a beginner and this repository documents my learning journey and progress.
+### Project Screenshot
+![Project Overview](screenshots/project1_overview.png)
