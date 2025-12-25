@@ -10,8 +10,7 @@ This repository contains Excel projects I built while learning data analytics.
 
 ## Projects
 - Project 1: Sales dataset — cleaned raw data and created summary insights
-- Project 2: Customer dataset — organized data and extracted basic trends
-- Project 3: Practice dataset — strengthened Excel fundamentals
+(More projects will be added soon)
 
 ## Notes
 I am a beginner and this repository documents my learning journey and progress.
