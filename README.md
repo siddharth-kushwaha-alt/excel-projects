@@ -1,7 +1,7 @@
 # Excel COVID Data Analysis Project
 
 ## Objective
-Analyze COVID-19 data using Excel to identify death rates, recovery rates, and risk levels across countries.
+Analyze COVID-19 data using Excel to identify death rates, recovery rates, and risk levels across countries. globally
 
 ## Tools & Techniques Used
 - Sorting & Filtering
